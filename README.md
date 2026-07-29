@@ -22,7 +22,6 @@ Currently exploring advanced Python, AI systems, and modern software engineering
 </a>
 
 </p>
-
 # 💻 Tech Stack:
 
 <p align="left">
