@@ -109,12 +109,6 @@ Currently exploring advanced Python, AI systems, and modern software engineering
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Dhaneshwari's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dsbiradar&theme=tokyonight&no-frame=true&row=1)
-
-
----
 
 ## 🔥 Contribution Streak
 
