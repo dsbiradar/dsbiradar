@@ -88,72 +88,41 @@ Currently exploring advanced Python, AI systems, and modern software engineering
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dsbiradar&theme=tokyonight)
 ---
 
-## 📌 Pinned Projects
+## 📌 Pinned
 
-### 🌌 SALUNA — AI Emotional Memory Universe
-
-An AI-powered emotional memory platform that transforms life experiences into an immersive digital galaxy.
-
-✨ Features:
-- Emotional Memory Galaxy Timeline
-- AI Emotional Reflection Engine
-- Memory Echoes
-- Future Capsule System
-- Healing Mode
-- Parallel Universe Mode
-
-🔗 Live Demo: https://saluna.ai.studio/
-
-🔗 GitHub: https://github.com/dsbiradar/Saluna
-
-**Tech Stack:**  
-Python • AI • Streamlit • Firebase • Gemini API
-
+1. 🌌 **Saluna**  
+   **Public**  
+   
+   AI Emotional Memory Universe  
+   
+   Python
 
 ---
 
-### 🚀 Vedha Future OS
-
-An intelligent AI-powered future operating system designed to explore productivity, automation, and next-generation digital experiences.
-
-🔗 Live Demo: https://vedha-future-os.vercel.app/
-
-**Tech Stack:**  
-React • TypeScript • Next.js • Tailwind CSS • AI
-
+2. 🚀 **Vedha Future OS**  
+   **Public**  
+   
+   AI-powered Future Operating System  
+   
+   TypeScript
 
 ---
 
-### 🌱 Agrinova AI
-
-An AI-based agriculture assistant that helps farmers with intelligent recommendations and smart farming solutions.
-
-✨ Features:
-- AI Agriculture Assistance
-- Crop Intelligence
-- Smart Recommendations
-- Farmer-focused Solutions
-
-🔗 Live Demo: https://agrinova-ai-198112457754.asia-southeast1.run.app
-
-**Tech Stack:**  
-Python • AI/ML • Streamlit • TensorFlow
-
+3. 🌱 **Agrinova AI**  
+   **Public**  
+   
+   AI Agriculture Assistant  
+   
+   Python
 
 ---
 
-### 🧠 CreatorMind AI
-
-An AI-powered creative assistant platform built to enhance productivity and help creators generate intelligent solutions.
-
-🔗 Live Demo: https://creator-mind-smoky.vercel.app/
-
-**Tech Stack:**  
-React • TypeScript • AI • Modern Web Technologies
-
-
----
----
+4. 🧠 **CreatorMind AI**  
+   **Public**  
+   
+   AI Creative Assistant Platform  
+   
+   TypeScript
 
 ## 📈 GitHub Activity
 
