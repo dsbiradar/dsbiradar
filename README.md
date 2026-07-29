@@ -120,7 +120,6 @@ Currently exploring advanced Python, AI systems, and modern software engineering
 - 🚀 Passionate about startups and innovation
 
 
----
 
 ## ✨ Quote
 
