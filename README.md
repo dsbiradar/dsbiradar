@@ -87,17 +87,12 @@ Currently exploring advanced Python, AI systems, and modern software engineering
 # 📊 GitHub Stats:
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=dsbiradar&show_icons=true&theme=tokyonight" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbiradar&layout=compact&theme=tokyonight" />
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com/?user=dsbiradar&theme=tokyonight" />
-
 </p>
 
 
