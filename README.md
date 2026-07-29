@@ -26,22 +26,17 @@ Currently exploring advanced Python, AI systems, and modern software engineering
 
 # 💻 Tech Stack:
 
-### Programming Languages
+<p align="left">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,tailwind,html,css,nodejs" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
 
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,streamlit,firebase,sqlite,mysql,git,github,vscode" />
 
-### AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+</p>
 
 
 ### Development Tools
