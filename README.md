@@ -87,41 +87,6 @@ Currently exploring advanced Python, AI systems, and modern software engineering
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dsbiradar&theme=tokyonight)
 ---
 
-## 📌 Pinned
-
-1. 🌌 **Saluna**  
-   **Public**  
-   
-   AI Emotional Memory Universe  
-   
-   Python
-
----
-
-2. 🚀 **Vedha Future OS**  
-   **Public**  
-   
-   AI-powered Future Operating System  
-   
-   TypeScript
-
----
-
-3. 🌱 **Agrinova AI**  
-   **Public**  
-   
-   AI Agriculture Assistant  
-   
-   Python
-
----
-
-4. 🧠 **CreatorMind AI**  
-   **Public**  
-   
-   AI Creative Assistant Platform  
-   
-   TypeScript
 
 ## 📈 GitHub Activity
 
