@@ -4,9 +4,9 @@ I am a B.Tech Computer Science & Engineering student at Sharnbasav University, K
 
 I specialize in building AI-powered applications, intelligent automation systems, and scalable software solutions that solve real-world problems in agriculture, emotional wellness, cybersecurity, and technology innovation.
 
-A passionate developer, AI enthusiast, and continuous learner — I enjoy transforming ideas into impactful products. I have worked on projects involving Machine Learning, Deep Learning, Blockchain, and Full Stack Development.
+A passionate developer, AI enthusiast, and continuous learner . I enjoy transforming ideas into impactful products. I have worked on projects involving Artificial intellignce and Full Stack Development.
 
-Currently exploring advanced Python, AI systems, and modern software engineering practices while working towards becoming a skilled Software Engineer.
+Currently exploring advanced Python, java Learner, AI systems, and modern software engineering practices while working towards becoming a skilled Software Engineer.
 
 
 # 🌐 Socials:
