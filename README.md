@@ -84,33 +84,33 @@ Currently exploring advanced Python, java Learner, AI systems, and modern softwa
 </p>
 
 
-# 📊 GitHub Stats:
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dsbiradar&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbiradar&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=dsbiradar&theme=tokyonight" />
-</p>
-
-
 ## 📈 GitHub Activity
 
 ![Dhaneshwari's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dsbiradar&theme=tokyo-night)
 
 
+# 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dsbiradar&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbiradar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
 ---
 
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dsbiradar&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dsbiradar&theme=tokyonight)
-
-
----
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dsbiradar&theme=tokyonight&hide_border=true"/>
+</p>
 ## 👩‍💻 About My Work
 
 - 🤖 Building AI-powered applications
