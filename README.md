@@ -105,7 +105,7 @@ Currently exploring advanced Python, java Learner, AI systems, and modern softwa
 - 🌱 Exploring AI solutions for agriculture
 - 🔐 Interested in cybersecurity and intelligent automation
 - 💡 Creating impactful software products
-- 🚀 Passionate about startups and innovation.
+- 🚀 Passionate about startups and innovation
 
 
 
