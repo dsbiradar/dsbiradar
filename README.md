@@ -87,15 +87,17 @@ Currently exploring advanced Python, java Learner, AI systems, and modern softwa
 ## 📈 GitHub Activity
 
 ![Dhaneshwari's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dsbiradar&theme=tokyo-night)
-
-
-# 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsbiradar&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbiradar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dsbiradar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbiradar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dsbiradar&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📈 GitHub Activity
