@@ -85,11 +85,27 @@ Currently exploring advanced Python, java Learner, AI systems, and modern softwa
 
 
 
-
-## 📈 GitHub Activity
+# 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dsbiradar&theme=tokyo-night&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dsbiradar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsbiradar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dsbiradar&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dsbiradar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
